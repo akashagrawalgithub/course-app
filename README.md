@@ -1,3 +1,3 @@
 # course_selling
 
-A new Flutter project.
+A new course sellign app UI Design.
